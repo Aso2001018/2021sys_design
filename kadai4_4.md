@@ -8,7 +8,7 @@ elseif (weather == 1) then (true)
 :"曇りです"と表示;
 elseif (weather == 1) then (true)
 :"雨です"と表示;
-else then (false)
+else (false)
 :"不明です"と表示;
 endif
 end
