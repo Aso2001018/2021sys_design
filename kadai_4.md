@@ -1,0 +1,16 @@
+```uml
+@startuml
+start
+:weather=0;
+if (weather == 0) then (true)
+:"快晴です"と表示;
+elseif (weather == 1) (true)
+"曇りです"と表示;
+elseif (weather == 1)( true)
+:"雨です"と表示;
+else (false)
+:"不明です"と表示;
+endif
+end
+@enduml
+```
