@@ -5,7 +5,7 @@ start
 if (weather == 0) then (true)
 :"快晴です"と表示;
 elseif (weather == 1) (true)
-"曇りです"と表示;
+:"曇りです"と表示;
 elseif (weather == 1)( true)
 :"雨です"と表示;
 else (false)
